@@ -1,3 +1,5 @@
 
   Cuvantul ''aaabba'' apartine limbajului acceptat de lambda-NFA, iar un drum viabil prin automat este:  0 1 2 1 2 1 2 1 2 1 2 1
-  Cuvantul ''bab'' NU apartine limbajului acceptat de lambda-NFA
+  Cuvantul ''bac'' apartine limbajului acceptat de lambda-NFA, iar un drum viabil prin automat este:  0 3 4 4 4 4
+  Cuvantul ''bad'' NU apartine limbajului acceptat de lambda-NFA
+  Cuvantul ''bb'' apartine limbajului acceptat de lambda-NFA, iar un drum viabil prin automat este:  0 3 4 4 4
