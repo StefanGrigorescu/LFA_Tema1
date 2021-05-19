@@ -1,0 +1,9 @@
+N = {S, A, B, C, D}
+Σ = {a, b, c}
+S → aA
+A → aS
+A → aB
+B → bC
+B → ε
+C → bD
+D → bB
